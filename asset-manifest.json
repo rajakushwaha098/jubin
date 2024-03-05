@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jubin/static/css/main.b5d3775a.css",
+    "main.js": "/jubin/static/js/main.aad636dd.js",
+    "index.html": "/jubin/index.html",
+    "main.b5d3775a.css.map": "/jubin/static/css/main.b5d3775a.css.map",
+    "main.aad636dd.js.map": "/jubin/static/js/main.aad636dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d3775a.css",
+    "static/js/main.aad636dd.js"
+  ]
+}
